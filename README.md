@@ -74,16 +74,17 @@ With **FinanceWise**, users can keep track of their income and expenses and gain
 
 ### Login or Create Account:
 
-![Welcome Message](images/welcomemsg.png)
+![Welcome Message](images/welcomemsg.PNG)
 
 
 - **New Users**:  
   Choose the "Create Account" option and set up your username and password.
-![new](images/newuserWelcomeMessage.png)
-
+  
+![New User Welcome Message](images/newuserWelcomeMessage.PNG)
 - **Returning Users**:  
   Log in with your existing credentials.
-![Welcome Message](images/WelcomeMessage.png)
+  
+![New User Welcome Message](images/newuserWelcomeMessage.PNG)
 
 
 ---
@@ -100,22 +101,25 @@ With **FinanceWise**, users can keep track of their income and expenses and gain
 ### Navigate the Main Menu:
 1. **Add Income**:  
    - Record an income amount and provide a description (e.g., "Salary").  
-   - The system will save the entry for future reference.
-![AddIncome](images/AddIncome.png)
+   - The system will save the entry for future reference.   
+![Add Income](images/AddIncome.PNG)
 
 2. **Add Expense**:  
    - Log expenses by specifying the amount and a description (e.g., "Groceries").  
-![AddExpense](images/AddExpense.png)
+![Add Expense](images/AddExpense.PNG)
+
 3. **View Transactions**:  
    - Displays a numbered list of all recorded incomes and expenses.
-![ViewTransac](images/ViewTransactions.png)
+![View Transactions](images/ViewTransactions.PNG)
+
 4. **View Summary**:  
    - Shows your total income, total expenses, and remaining balance, providing a clear snapshot of your finances.
-![Summary](images/ViewSummary.png)
+![View Summary](images/ViewSummary.PNG)
+
 5. **Exit**:  
    - When done, choose the "Logout" option to close the program.  
-   - All data will be saved automatically for the next session.
-![Exit](images/Exit.png)
+   - All data will be saved automatically for the next session.  
+![Exit Screen](images/Exit.PNG)
 
 ---
 
