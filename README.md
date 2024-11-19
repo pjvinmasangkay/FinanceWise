@@ -15,6 +15,7 @@
    - [User Experience Enhancements](#user-experience-enhancements)
    - [Iterative Input](#iterative-input)
 3. [Details of the Chosen SDG and Its Integration into the Project](#details-of-the-chosen-sdg-and-its-integration-into-the-project)
+4. [Instructions for Running the Program](#instructions-for-running-the-program)
 
 ---
 
