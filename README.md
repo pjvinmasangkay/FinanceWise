@@ -6,16 +6,16 @@
 
 ## Table of Contents
 
-1. [Project Overview](#project-overview)
-2. [Explanation of How Python Concepts, Libraries, etc. Were Applied](#explanation-of-how-python-concepts-libraries-etc-were-applied)
+1. - [Project Overview](#project-overview)
+2. - [Explanation of How Python Concepts, Libraries, etc. Were Applied](#explanation-of-how-python-concepts-libraries-etc-were-applied)
    - [Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
    - [Data Storage Using JSON](#data-storage-using-json)
    - [Error Handling](#error-handling)
    - [Dynamic File Handling Using OS Library](#dynamic-file-handling-using-os-library)
    - [User Experience Enhancements](#user-experience-enhancements)
    - [Iterative Input](#iterative-input)
-3. [Details of the Chosen SDG and Its Integration into the Project](#details-of-the-chosen-sdg-and-its-integration-into-the-project)
-4. [Instructions for Running the Program](#instructions-for-running-the-program)
+3. - [Details of the Chosen SDG and Its Integration into the Project](#details-of-the-chosen-sdg-and-its-integration-into-the-project)
+4. - [Instructions for Running the Program](#instructions-for-running-the-program)
 
 ---
 
