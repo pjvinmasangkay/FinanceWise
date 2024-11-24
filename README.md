@@ -79,17 +79,17 @@ With **FinanceWise**, users can keep track of their income and expenses and gain
 
 ### Login or Create Account:
 
-![Welcome Message](images/welcomemsg.PNG)
+![Welcome Message](images/Loginorcreate.PNG)
 
 
 - **New Users**:  
   Choose the "Create Account" option and set up your username and password.
   
-![New User Welcome Message](images/newuserWelcomeMessage.PNG)
+![New User Welcome Message](images/newusers.PNG)
 - **Returning Users**:  
   Log in with your existing credentials.
   
-![New User Welcome Message](images/newuserWelcomeMessage.PNG)
+![New User Welcome Message](images/returningusers.PNG)
 
 
 ---
@@ -97,6 +97,8 @@ With **FinanceWise**, users can keep track of their income and expenses and gain
 ### Welcome Message:
 - **For Returning Users**:  
   Upon logging in, you will be greeted with a welcome message displaying your name and account status.  
+
+![Returning Welcome Message](images/welcomewithname.PNG)
 
 - **For New Users**:  
   After creating an account, you will be welcomed and directed to the main menu.
@@ -107,24 +109,28 @@ With **FinanceWise**, users can keep track of their income and expenses and gain
 1. **Add Income**:  
    - Record an income amount and provide a description (e.g., "Salary").  
    - The system will save the entry for future reference.   
-![Add Income](images/AddIncome.PNG)
+![Add Income](images/ADDDincome.PNG)
 
 2. **Add Expense**:  
    - Log expenses by specifying the amount and a description (e.g., "Groceries").  
-![Add Expense](images/AddExpense.PNG)
+![Add Expense](images/EXpense.PNG)
 
 3. **View Transactions**:  
    - Displays a numbered list of all recorded incomes and expenses.
-![View Transactions](images/ViewTransactions.PNG)
+![View Transactions](images/transactions.PNG)
 
-4. **View Summary**:  
+4.**Delete Transactions**:
+   - Allows users to delete a specific transaction from their transaction history.
+![Delete Transactions](images/deleteTrans.PNG)
+
+5. **View Summary**:  
    - Shows your total income, total expenses, and remaining balance, providing a clear snapshot of your finances.
-![View Summary](images/ViewSummary.PNG)
+![View Summary](images/summary.PNG)
 
-5. **Exit**:  
+6. **Exit**:  
    - When done, choose the "Logout" option to close the program.  
    - All data will be saved automatically for the next session.  
-![Exit Screen](images/Exit.PNG)
+![Exit Screen](images/logout.PNG)
 
 ---
 
