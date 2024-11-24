@@ -1,7 +1,5 @@
 # FinanceWise: Personal Finance Management System
 
-**FinanceWise: Personal Finance Management System** is a simple console-based system developed to help users manage their personal finances. The main goal is to make it easier for people to track their income, expenses, and financial balance all in one place, using an easy-to-use program that stores data securely for future use.
-
 ---
 
 ## Table of Contents
@@ -21,7 +19,7 @@
 
 ## I. Project Overview
 
-**FinanceWise: Personal Finance Management System** is a simple console-based system developed to help users manage their personal finances. The main goal is to make it easier for people to track their income, expenses, and financial balance all in one place, using an easy-to-use program that stores data securely for future use.
+**FinanceWise** is a personal finance management system designed to help users track their income, expenses, and total cash flow. With a straightforward graphical user interface (GUI), the system simplifies financial management, making it easy to understand and utilize. This project serves as a practical tool for securely and efficiently managing personal finances.
 
 ---
 
