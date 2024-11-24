@@ -25,11 +25,11 @@
 
 ## II. Explanation of How Python Concepts, Libraries, etc. Were Applied
 
-The **FinanceWise: Personal Finance Management System** was designed using key programming principles and Python's standard libraries to achieve modularity, efficiency, and reliability. Below is an academic analysis of how various Python concepts and libraries were applied:
+The **FinanceWise: Personal Finance Management System** was designed using key programming principles and Python's standard libraries to achieve modularity, efficiency, and reliability. Below is an analysis of how various Python concepts and libraries were applied:
 
 ### Object-Oriented Programming (OOP):
 
-1.1. **Encapsulation**: The project utilizes a class, `PersonalFinanceManager`, to encapsulate all functionalities related to managing finances. Methods within this class, such as `add_transaction`, `view_transactions`, and `get_summary`, handle specific tasks, keeping the logic organized.
+1.1. **Encapsulation**: The project utilizes a class, `PersonalFinanceManager`, to encapsulate all functionalities related to managing finances. Methods within this class, such as `load_transactions(self)`, `save_transactions(self)`, `add_transaction(self, transaction_type, amount, description)`, `delete_transaction(self, index)`, and `get_summary(self)` handle specific tasks, keeping the logic organized. While the `FinanceWiseApp` class manages the GUI and user interaction.
 
 1.2. **Abstraction**: Hides internal complexities like file handling, offering clean methods for tasks like adding and viewing transactions. This improves the user experience and system usability.
 
@@ -58,6 +58,12 @@ The **FinanceWise: Personal Finance Management System** was designed using key p
 ### Iterative Input:
 
 6.1. Infinite input loops ensure that the program repeatedly prompts users for valid credentials or options. This design prevents the program from terminating abruptly due to invalid user actions.
+
+### Graphical User Interface with Tkinter:
+
+7.1. The user interface is implemented using the `tkinter` library, supplemented with `ttkbootstrap` for enhanced styling.
+
+
 
 ---
 
