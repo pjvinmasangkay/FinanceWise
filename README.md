@@ -78,6 +78,16 @@ With **FinanceWise**, users can keep track of their income and expenses and gain
 
 ## IV. Instructions for Running the Program
 
+## Prerequisites:
+
+### Python Installation:
+  Python 3.8
+### Install Required Libraries:
+Open your terminal and run the following commands to install the necessary libraries: pip install ttkbootstrap pillow
+
+### Images and Files:
+Ensure the following image files are present in the same directory as the program
+
 ### Login or Create Account:
 
 ![Welcome Message](images/Loginorcreate.PNG)
